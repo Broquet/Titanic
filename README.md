@@ -3,7 +3,6 @@
 **Purpose:** To determine which factors increased the survival of the Titanic passengers according to data analysis.
 
 This dataset contains demographics and passenger information from 891 of the 2'224 passengers and crew on board the Titanic. A description of this dataset can be viewed on the Kaggle website.
-Questions
 
 The Kaggle website mentioned the following: "One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class."
 
